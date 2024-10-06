@@ -19,9 +19,8 @@ This ImageJ macro facilitates automated processing and analysis of `extracellula
  - `Average fiber length`
  - `Anisotropy index` 
 
-See the description table in the `instruction manual` for details. 
-The macro is optimized for batch processing of multiple images, returning a dataframe with measurements to the user-specified output directory.  
-Quantitative metrics (.txt file) are returned to the user in user-specified directories.
+Please see the parameter description table in the `instruction manual` for details. <br/>
+The macro is optimized for batch processing of images, returning a dataframe with measurements to a user-specified output directory. `Quantitative metrics` (.txt file) are returned to the user in user-specified directories.
 
 **Citation for MORTEX:**  
 

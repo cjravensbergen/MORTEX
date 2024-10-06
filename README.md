@@ -8,7 +8,16 @@ _C. Ravensbergen (c.j.ravensbergen@lumc.nl)_
 This ImageJ macro facilitates automated processing and analysis of `extracellular matrix (ECM)` microscopy images from **Picrosirius red-stained** tissue sections captured using **fluorescent imaging**.  
 <br/>
 `MORTEX` provides quantitative output for ten matrix and fiber parameters:
-
+ - `Tortuosity`
+ - `Compactness`
+ - `Uniformity`
+ - `Intersection density`
+ - `Fractal dimension`
+ - `Fiber bundle density`
+ - `Dominant direction`
+ - `Branching density`
+ - `Average fiber length`
+ - `Anisotropy index` 
 
 See the description table in the `instruction manual` for details. 
 The macro is optimized for batch processing of multiple images, returning a dataframe with measurements to the user-specified output directory.  

@@ -31,7 +31,7 @@ The macro is optimized for batch processing of images, returning a dataframe wit
 - [ImageJ](https://imagej.nih.gov/ij/download.html) (version 1.54f or later) or [FIJI](https://fiji.sc/) (preferred software).
 #### Plugin Dependencies
 _Please install/[update](https://imagej.net/plugins/updater) the following ImageJ plugins for proper_ `CORTEX` _functioning:_
- - [`OrientationJ`](http://bigwww.epfl.ch/demo/orientationj/) (version **2.0.5** or later)
+ - [`OrientationJ`](http://bigwww.epfl.ch/demo/orientationj/) (version **2.0.5**)
  - [`AnalyzeSkeleton`](https://imagej.net/plugins/analyze-skeleton/) (version 3.4.2 or later)
  - [`GLCM2`](https://github.com/miura/GLCM2) (version 1.0.1 or later)
  - [`Bio-Formats`](https://imagej.net/formats/bio-formats) (version 6.14.0 or later)

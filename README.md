@@ -45,7 +45,7 @@ _Please install/[update](https://imagej.net/plugins/updater) the following Image
 ---
 ### How to Use?
 
-Please refer to the [`Instruction Manual`](https://github.com/fiji/fiji) for a detailed guide on how to use `CORTEX` for collagen image analysis.
+Please refer to the [`Instruction Manual`](https://github.com/fiji/fiji) for a detailed guide on how to use `MORTEX` for ECM image analysis.
 
 ---
 ### License
